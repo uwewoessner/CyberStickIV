@@ -1,2 +1,2 @@
 # CyberStickIV
-Input device for projection based IR systems
+Input device for projection based VR systems
